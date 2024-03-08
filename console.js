@@ -6,3 +6,6 @@ console.log("i am hafz")
 function main(){
  return null; 
 }
+
+console.log("Hello World")
+console.log("i am hafz")
