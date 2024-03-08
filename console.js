@@ -4,8 +4,8 @@ console.log("i am hafz")
 // put name
 
 function main(){
- return null; 
+    console.log("Hello World")
+    console.log("i am hafz")
+  return void;
 }
 
-console.log("Hello World")
-console.log("i am hafz")
